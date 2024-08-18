@@ -1,0 +1,501 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Orange\\Desktop\\project6\\project6\\Fruitables\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Orange\\Desktop\\project6\\project6\\Fruitables\\Fruitables\\Views\\Products\\About.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Fruitables\\Views\\Products\\About.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Orange\\Desktop\\project6\\project6\\Fruitables\\Fruitables\\Views\\registrations\\Profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Fruitables\\Views\\registrations\\Profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Orange\\Desktop\\project6\\project6\\Fruitables\\Fruitables\\Views\\registrations\\registrations.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Fruitables\\Views\\registrations\\registrations.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Orange\\Desktop\\project6\\project6\\Fruitables\\Fruitables\\Views\\Products\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Fruitables\\Views\\Products\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Orange\\Desktop\\project6\\project6\\Fruitables\\Fruitables\\Views\\Products\\AddToCart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Fruitables\\Views\\Products\\AddToCart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Orange\\Desktop\\project6\\project6\\Fruitables\\Fruitables\\Views\\Products\\Home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Fruitables\\Views\\Products\\Home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Orange\\Desktop\\project6\\project6\\Fruitables\\Fruitables\\Views\\Products\\Details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Fruitables\\Views\\Products\\Details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Orange\\Desktop\\project6\\project6\\Fruitables\\Fruitables\\Views\\Products\\DetailsItme.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Fruitables\\Views\\Products\\DetailsItme.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Orange\\Desktop\\project6\\project6\\Fruitables\\Fruitables\\Views\\Default\\Create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Fruitables\\Views\\Default\\Create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Orange\\Desktop\\project6\\project6\\Fruitables\\Fruitables\\Views\\Default\\Details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Fruitables\\Views\\Default\\Details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Orange\\Desktop\\project6\\project6\\Fruitables\\Fruitables\\Views\\Home\\About.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Fruitables\\Views\\Home\\About.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Orange\\Desktop\\project6\\project6\\Fruitables\\Fruitables\\Views\\registrations\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Fruitables\\Views\\registrations\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Orange\\Desktop\\project6\\project6\\Fruitables\\Fruitables\\Views\\registrations\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Fruitables\\Views\\registrations\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Orange\\Desktop\\project6\\project6\\Fruitables\\Fruitables\\Controllers\\registrationsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Fruitables\\Controllers\\registrationsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Orange\\Desktop\\project6\\project6\\Fruitables\\Fruitables\\Views\\Shared\\_Layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Fruitables\\Views\\Shared\\_Layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Orange\\Desktop\\project6\\project6\\Fruitables\\Fruitables\\Controllers\\ProductsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Fruitables\\Controllers\\ProductsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Orange\\Desktop\\project6\\project6\\Fruitables\\Fruitables\\Views\\Products\\Create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Fruitables\\Views\\Products\\Create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Orange\\Desktop\\project6\\project6\\Fruitables\\Fruitables\\Views\\Home\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Fruitables\\Views\\Home\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Orange\\Desktop\\project6\\project6\\Fruitables\\Fruitables\\Views\\Default\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Fruitables\\Views\\Default\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Orange\\Desktop\\project6\\project6\\Fruitables\\Fruitables\\Models\\Model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Fruitables\\Models\\Model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Orange\\Desktop\\project6\\project6\\Fruitables\\Fruitables\\Controllers\\HomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Fruitables\\Controllers\\HomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Orange\\Desktop\\project6\\project6\\Fruitables\\Fruitables\\Views\\Products\\showitem.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Fruitables\\Views\\Products\\showitem.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Orange\\Desktop\\project6\\project6\\Fruitables\\Fruitables\\Views\\Home\\Contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Fruitables\\Views\\Home\\Contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Orange\\Desktop\\project6\\project6\\Fruitables\\Fruitables\\Views\\Default\\Cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Fruitables\\Views\\Default\\Cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Orange\\Desktop\\project6\\project6\\Fruitables\\Fruitables\\Views\\registrations\\Edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Fruitables\\Views\\registrations\\Edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Orange\\Desktop\\project6\\project6\\Fruitables\\Fruitables\\Views\\registrations\\Details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Fruitables\\Views\\registrations\\Details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Orange\\Desktop\\project6\\project6\\Fruitables\\Fruitables\\Global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Fruitables\\Global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Orange\\Desktop\\project6\\project6\\Fruitables\\Fruitables\\Web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Fruitables\\Web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Orange\\Desktop\\project6\\project6\\Fruitables\\Fruitables\\Views\\registrations\\Delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Fruitables\\Views\\registrations\\Delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Orange\\Desktop\\project6\\project6\\Fruitables\\Fruitables\\Views\\Web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Fruitables\\Views\\Web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Profile.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\project6\\project6\\Fruitables\\Fruitables\\Views\\registrations\\Profile.cshtml",
+              "RelativeDocumentMoniker": "Fruitables\\Views\\registrations\\Profile.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\project6\\project6\\Fruitables\\Fruitables\\Views\\registrations\\Profile.cshtml",
+              "RelativeToolTip": "Fruitables\\Views\\registrations\\Profile.cshtml",
+              "ViewState": "AQIAADoAAAAAAAAAAAAkwEkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-18T18:27:27.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "registrations.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\project6\\project6\\Fruitables\\Fruitables\\Views\\registrations\\registrations.cshtml",
+              "RelativeDocumentMoniker": "Fruitables\\Views\\registrations\\registrations.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\project6\\project6\\Fruitables\\Fruitables\\Views\\registrations\\registrations.cshtml",
+              "RelativeToolTip": "Fruitables\\Views\\registrations\\registrations.cshtml",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAAD0AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-17T20:43:49.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\project6\\project6\\Fruitables\\Fruitables\\Views\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "Fruitables\\Views\\Products\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\project6\\project6\\Fruitables\\Fruitables\\Views\\Products\\Index.cshtml",
+              "RelativeToolTip": "Fruitables\\Views\\Products\\Index.cshtml",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAADsAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-17T20:58:29.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddToCart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\project6\\project6\\Fruitables\\Fruitables\\Views\\Products\\AddToCart.cshtml",
+              "RelativeDocumentMoniker": "Fruitables\\Views\\Products\\AddToCart.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\project6\\project6\\Fruitables\\Fruitables\\Views\\Products\\AddToCart.cshtml",
+              "RelativeToolTip": "Fruitables\\Views\\Products\\AddToCart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADgAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-18T07:17:28.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Home.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\project6\\project6\\Fruitables\\Fruitables\\Views\\Products\\Home.cshtml",
+              "RelativeDocumentMoniker": "Fruitables\\Views\\Products\\Home.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\project6\\project6\\Fruitables\\Fruitables\\Views\\Products\\Home.cshtml",
+              "RelativeToolTip": "Fruitables\\Views\\Products\\Home.cshtml",
+              "ViewState": "AQIAALEAAAAAAAAAAAAAAD4CAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-18T17:05:22.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\project6\\project6\\Fruitables\\Fruitables\\Views\\Products\\About.cshtml",
+              "RelativeDocumentMoniker": "Fruitables\\Views\\Products\\About.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\project6\\project6\\Fruitables\\Fruitables\\Views\\Products\\About.cshtml",
+              "RelativeToolTip": "Fruitables\\Views\\Products\\About.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-18T17:36:41.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\project6\\project6\\Fruitables\\Fruitables\\Views\\Products\\Details.cshtml",
+              "RelativeDocumentMoniker": "Fruitables\\Views\\Products\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\project6\\project6\\Fruitables\\Fruitables\\Views\\Products\\Details.cshtml",
+              "RelativeToolTip": "Fruitables\\Views\\Products\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-18T08:44:35.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DetailsItme.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\project6\\project6\\Fruitables\\Fruitables\\Views\\Products\\DetailsItme.cshtml",
+              "RelativeDocumentMoniker": "Fruitables\\Views\\Products\\DetailsItme.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\project6\\project6\\Fruitables\\Fruitables\\Views\\Products\\DetailsItme.cshtml",
+              "RelativeToolTip": "Fruitables\\Views\\Products\\DetailsItme.cshtml",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAABIAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-18T08:58:25.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\project6\\project6\\Fruitables\\Fruitables\\Views\\Default\\Create.cshtml",
+              "RelativeDocumentMoniker": "Fruitables\\Views\\Default\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\project6\\project6\\Fruitables\\Fruitables\\Views\\Default\\Create.cshtml",
+              "RelativeToolTip": "Fruitables\\Views\\Default\\Create.cshtml",
+              "ViewState": "AQIAABAAAAAAAAAAAAAUwBwAAABcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-18T13:02:32.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\project6\\project6\\Fruitables\\Fruitables\\Views\\Default\\Details.cshtml",
+              "RelativeDocumentMoniker": "Fruitables\\Views\\Default\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\project6\\project6\\Fruitables\\Fruitables\\Views\\Default\\Details.cshtml",
+              "RelativeToolTip": "Fruitables\\Views\\Default\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-18T12:57:03.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\project6\\project6\\Fruitables\\Fruitables\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "Fruitables\\Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\project6\\project6\\Fruitables\\Fruitables\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "Fruitables\\Views\\Home\\About.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-18T07:29:53.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\project6\\project6\\Fruitables\\Fruitables\\Views\\registrations\\Index.cshtml",
+              "RelativeDocumentMoniker": "Fruitables\\Views\\registrations\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\project6\\project6\\Fruitables\\Fruitables\\Views\\registrations\\Index.cshtml",
+              "RelativeToolTip": "Fruitables\\Views\\registrations\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-17T20:45:59.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\project6\\project6\\Fruitables\\Fruitables\\Views\\registrations\\login.cshtml",
+              "RelativeDocumentMoniker": "Fruitables\\Views\\registrations\\login.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\project6\\project6\\Fruitables\\Fruitables\\Views\\registrations\\login.cshtml",
+              "RelativeToolTip": "Fruitables\\Views\\registrations\\login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-17T20:32:03.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "registrationsController.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\project6\\project6\\Fruitables\\Fruitables\\Controllers\\registrationsController.cs",
+              "RelativeDocumentMoniker": "Fruitables\\Controllers\\registrationsController.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\project6\\project6\\Fruitables\\Fruitables\\Controllers\\registrationsController.cs",
+              "RelativeToolTip": "Fruitables\\Controllers\\registrationsController.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAQwEgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T14:55:00.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\project6\\project6\\Fruitables\\Fruitables\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Fruitables\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\project6\\project6\\Fruitables\\Fruitables\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Fruitables\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAAEkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-18T09:12:03.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\project6\\project6\\Fruitables\\Fruitables\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Fruitables\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\project6\\project6\\Fruitables\\Fruitables\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Fruitables\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAAGkAAAAAAAAAAAAkwHwAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T20:54:02.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\project6\\project6\\Fruitables\\Fruitables\\Views\\Products\\Create.cshtml",
+              "RelativeDocumentMoniker": "Fruitables\\Views\\Products\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\project6\\project6\\Fruitables\\Fruitables\\Views\\Products\\Create.cshtml",
+              "RelativeToolTip": "Fruitables\\Views\\Products\\Create.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAB8AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-17T20:59:41.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\project6\\project6\\Fruitables\\Fruitables\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Fruitables\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\project6\\project6\\Fruitables\\Fruitables\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Fruitables\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAABkCAAAAAAAAAAAYwDkCAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-17T21:37:33.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\project6\\project6\\Fruitables\\Fruitables\\Views\\Default\\Index.cshtml",
+              "RelativeDocumentMoniker": "Fruitables\\Views\\Default\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\project6\\project6\\Fruitables\\Fruitables\\Views\\Default\\Index.cshtml",
+              "RelativeToolTip": "Fruitables\\Views\\Default\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAACSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-18T12:54:36.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\project6\\project6\\Fruitables\\Fruitables\\Models\\Model1.edmx",
+              "RelativeDocumentMoniker": "Fruitables\\Models\\Model1.edmx",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\project6\\project6\\Fruitables\\Fruitables\\Models\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "Fruitables\\Models\\Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-08-18T14:00:12.055Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\project6\\project6\\Fruitables\\Fruitables\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Fruitables\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\project6\\project6\\Fruitables\\Fruitables\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Fruitables\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T14:17:11.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "showitem.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\project6\\project6\\Fruitables\\Fruitables\\Views\\Products\\showitem.cshtml",
+              "RelativeDocumentMoniker": "Fruitables\\Views\\Products\\showitem.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\project6\\project6\\Fruitables\\Fruitables\\Views\\Products\\showitem.cshtml",
+              "RelativeToolTip": "Fruitables\\Views\\Products\\showitem.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-18T10:27:25.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\project6\\project6\\Fruitables\\Fruitables\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "Fruitables\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\project6\\project6\\Fruitables\\Fruitables\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "Fruitables\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-18T07:20:37.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Cart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\project6\\project6\\Fruitables\\Fruitables\\Views\\Default\\Cart.cshtml",
+              "RelativeDocumentMoniker": "Fruitables\\Views\\Default\\Cart.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\project6\\project6\\Fruitables\\Fruitables\\Views\\Default\\Cart.cshtml",
+              "RelativeToolTip": "Fruitables\\Views\\Default\\Cart.cshtml",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAYwFgAAABxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-18T12:59:22.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\project6\\project6\\Fruitables\\Fruitables\\Views\\registrations\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Fruitables\\Views\\registrations\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\project6\\project6\\Fruitables\\Fruitables\\Views\\registrations\\Edit.cshtml",
+              "RelativeToolTip": "Fruitables\\Views\\registrations\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-17T20:42:05.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\project6\\project6\\Fruitables\\Fruitables\\Views\\registrations\\Details.cshtml",
+              "RelativeDocumentMoniker": "Fruitables\\Views\\registrations\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\project6\\project6\\Fruitables\\Fruitables\\Views\\registrations\\Details.cshtml",
+              "RelativeToolTip": "Fruitables\\Views\\registrations\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-17T20:42:44.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\project6\\project6\\Fruitables\\Fruitables\\Global.asax.cs",
+              "RelativeDocumentMoniker": "Fruitables\\Global.asax.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\project6\\project6\\Fruitables\\Fruitables\\Global.asax.cs",
+              "RelativeToolTip": "Fruitables\\Global.asax.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T07:25:15.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\project6\\project6\\Fruitables\\Fruitables\\Web.config",
+              "RelativeDocumentMoniker": "Fruitables\\Web.config",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\project6\\project6\\Fruitables\\Fruitables\\Web.config",
+              "RelativeToolTip": "Fruitables\\Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADoAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-08-18T07:12:56.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\project6\\project6\\Fruitables\\Fruitables\\Views\\registrations\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Fruitables\\Views\\registrations\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\project6\\project6\\Fruitables\\Fruitables\\Views\\registrations\\Delete.cshtml",
+              "RelativeToolTip": "Fruitables\\Views\\registrations\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-17T20:44:22.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\project6\\project6\\Fruitables\\Fruitables\\Views\\Web.config",
+              "RelativeDocumentMoniker": "Fruitables\\Views\\Web.config",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\project6\\project6\\Fruitables\\Fruitables\\Views\\Web.config",
+              "RelativeToolTip": "Fruitables\\Views\\Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-08-18T07:12:35.018Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

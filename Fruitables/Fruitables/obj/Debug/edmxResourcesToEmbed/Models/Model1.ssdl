@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="fruitablesModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="CartItems">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="ProductId" Type="int" />
+    <Property Name="registrationid" Type="int" />
+    <Property Name="Quantity" Type="int" />
+  </EntityType>
+  <EntityType Name="products">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="img" Type="varchar(max)" />
+    <Property Name="name" Type="varchar(max)" />
+    <Property Name="description" Type="varchar(max)" />
+    <Property Name="Item_type" Type="varchar(max)" />
+    <Property Name="price" Type="varchar(max)" />
+    <Property Name="status" Type="varchar(max)" />
+  </EntityType>
+  <EntityType Name="registration">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="img" Type="varchar(max)" />
+    <Property Name="name" Type="varchar(max)" />
+    <Property Name="email" Type="varchar(max)" />
+    <Property Name="password" Type="varchar(max)" />
+    <Property Name="Confirm_password" Type="varchar(max)" />
+    <Property Name="status" Type="varchar(max)" />
+  </EntityType>
+  <Association Name="FK__CartItems__Produ__48CFD27E">
+    <End Role="products" Type="Self.products" Multiplicity="0..1" />
+    <End Role="CartItems" Type="Self.CartItems" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="products">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="CartItems">
+        <PropertyRef Name="ProductId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__CartItems__regis__49C3F6B7">
+    <End Role="registration" Type="Self.registration" Multiplicity="0..1" />
+    <End Role="CartItems" Type="Self.CartItems" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="registration">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="CartItems">
+        <PropertyRef Name="registrationid" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="fruitablesModelStoreContainer">
+    <EntitySet Name="CartItems" EntityType="Self.CartItems" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="products" EntityType="Self.products" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="registration" EntityType="Self.registration" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK__CartItems__Produ__48CFD27E" Association="Self.FK__CartItems__Produ__48CFD27E">
+      <End Role="products" EntitySet="products" />
+      <End Role="CartItems" EntitySet="CartItems" />
+    </AssociationSet>
+    <AssociationSet Name="FK__CartItems__regis__49C3F6B7" Association="Self.FK__CartItems__regis__49C3F6B7">
+      <End Role="registration" EntitySet="registration" />
+      <End Role="CartItems" EntitySet="CartItems" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

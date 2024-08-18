@@ -1,0 +1,40 @@
+﻿@model IEnumerable<Fruitables.Models.product>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<div class="container-fluid fruite py-5">
+    <div class="container py-5">
+        <h1 class="mb-4">Fresh fruits shop</h1>
+        <div class="row g-4 justify-content-center">
+            @foreach (var product in Model)
+            {
+                <div class="col-md-6 col-lg-6 col-xl-4">
+                    <div class="rounded position-relative fruite-item">
+                        <div class="fruite-img">
+                            <img src="@product.img" class="img-fluid w-100 rounded-top" alt="@product.name">
+                        </div>
+                        <div class="text-white bg-secondary px-3 py-1 rounded position-absolute" style="top: 10px; left: 10px;">@product.Item_type</div>
+                        <div class="p-4 border border-secondary border-top-0 rounded-bottom">
+                            <h4>@product.name</h4>
+                            <p>@product.description</p>
+                            <div class="d-flex justify-content-between flex-lg-wrap">
+                                <p class="text-dark fs-5 fw-bold mb-0">$ @product.price / kg</p>
+                                @Html.ActionLink("View Details", "Details", "Products", new { id = product.id }, new { @class = "btn border border-secondary rounded-pill px-3 text-primary" })
+                                @using (Html.BeginForm("AddToCart", "Products", FormMethod.Post))
+                                {
+                                    @Html.Hidden("id", product.id)
+                                    <button type="submit" class="btn border border-secondary rounded-pill ">
+                                        <i class="fa fa-shopping-bag me-2 text-primary"></i> Add to cart
+                                    </button>
+                                }
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+    </div>
+</div>
+

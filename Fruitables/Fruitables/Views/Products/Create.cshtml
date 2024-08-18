@@ -1,0 +1,46 @@
+﻿@model Fruitables.Models.product
+
+@{
+    ViewBag.Title = "Create Product";
+}
+
+<div class="container py-5">
+    <h2 class="mb-4">Add New Product</h2>
+
+    @using (Html.BeginForm("Create", "Products", FormMethod.Post, new { enctype = "multipart/form-data" }))
+    {
+        @Html.AntiForgeryToken()
+
+        <div class="mb-3">
+            @Html.LabelFor(m => m.name)
+            @Html.TextBoxFor(m => m.name, new { @class = "form-control" })
+            @Html.ValidationMessageFor(m => m.name, "", new { @class = "text-danger" })
+        </div>
+
+        <div class="mb-3">
+            @Html.LabelFor(m => m.description)
+            @Html.TextAreaFor(m => m.description, new { @class = "form-control", rows = 3 })
+            @Html.ValidationMessageFor(m => m.description, "", new { @class = "text-danger" })
+        </div>
+
+        <div class="mb-3">
+            @Html.LabelFor(m => m.Item_type)
+            @Html.TextBoxFor(m => m.Item_type, new { @class = "form-control" })
+            @Html.ValidationMessageFor(m => m.Item_type, "", new { @class = "text-danger" })
+        </div>
+        <div class="mb-3">
+            @Html.LabelFor(m => m.price)
+            @Html.TextBoxFor(m => m.price, new { @class = "form-control" })
+            @Html.ValidationMessageFor(m => m.price, "", new { @class = "text-danger" })
+        </div>
+
+
+
+        <div class="mb-3">
+            @Html.Label("Upload Image")
+            <input type="file" name="upload" class="form-control" />
+        </div>
+
+        <button type="submit" class="btn btn-primary">Save</button>
+    }
+</div>

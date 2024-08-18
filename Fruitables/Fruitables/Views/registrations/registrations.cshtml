@@ -1,0 +1,89 @@
+﻿@model Fruitables.Models.registration
+
+@{
+    ViewBag.Title = "Create";
+}
+ 
+    <style>
+        .auth-container {
+            min-height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            background-color: #f8f9fa;
+        }
+
+        .card {
+            border: none;
+            border-radius: 10px;
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+        }
+
+        .btn-primary {
+            background-color: #81C408;
+            border-color: #81C408;
+        }
+
+            .btn-primary:hover {
+                background-color: #6ea207;
+                border-color: #6ea207;
+            }
+
+        .form-control {
+            border-radius: 5px;
+        }
+    </style>
+
+    <div class="auth-container">
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-md-6">
+                    <div class="card p-5">
+                        <h3 class="text-center text-primary mb-4">Create an Account</h3>
+                        @using (Html.BeginForm())
+                        {
+                            @Html.AntiForgeryToken()
+
+                            <div class="form-group mb-3">
+                                @Html.LabelFor(model => model.name, htmlAttributes: new { @class = "control-label" })
+                                @Html.EditorFor(model => model.name, new { htmlAttributes = new { @class = "form-control", placeholder = "Enter your Name" } })
+                                @Html.ValidationMessageFor(model => model.name, "", new { @class = "text-danger" })
+                            </div>
+
+                            <div class="form-group mb-3">
+                                @Html.LabelFor(model => model.email, htmlAttributes: new { @class = "control-label" })
+                                @Html.EditorFor(model => model.email, new { htmlAttributes = new { @class = "form-control", placeholder = "Enter your email" } })
+                                @Html.ValidationMessageFor(model => model.email, "", new { @class = "text-danger" })
+                            </div>
+                            <div class="form-group mb-3">
+                                @Html.LabelFor(model => model.password, htmlAttributes: new { @class = "control-label" })
+                                @Html.EditorFor(model => model.password, new { htmlAttributes = new { @class = "form-control", placeholder = "Enter your password" } })
+                                @Html.ValidationMessageFor(model => model.password, "", new { @class = "text-danger" })
+                            </div>
+
+                            <div class="form-group mb-3">
+                                @Html.LabelFor(model => model.Confirm_password, htmlAttributes: new { @class = "control-label" })
+                                @Html.EditorFor(model => model.Confirm_password, new { htmlAttributes = new { @class = "form-control", placeholder = "Confirm your password" } })
+                                @Html.ValidationMessageFor(model => model.Confirm_password, "", new { @class = "text-danger" })
+                            </div>
+
+                           
+                            <div class="d-grid">
+                                <button type="submit" class="btn btn-primary">Register</button>
+                            </div>
+
+                            <p class="text-center mt-3">Already have an account? <a href="@Url.Action("login", "registrations")" class="text-primary">Login</a></p>
+                        }
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+
+
+    @section Scripts {
+        @Scripts.Render("~/bundles/jqueryval")
+    }

@@ -1,0 +1,36 @@
+﻿@model Fruitables.Models.product
+
+@{
+    ViewBag.Title = "DetailsItme";
+}
+
+<div class="container-fluid py-5">
+    <div class="container py-5">
+        <div class="row">
+            <div class="col-lg-6">
+                <div class="rounded shadow-sm overflow-hidden">
+                    <img src="@Model.img" class=" w-100 h-100" alt="@Model.name" style="max-height: 400px; object-fit: cover;">
+                </div>
+            </div>
+            <div class="col-lg-6">
+                <h1 class="display-5 mb-3">@Model.name</h1>
+                <h2 class="text-success mb-4">@Model.price JD</h2>
+                <p class="lead mb-4">@Model.description</p>
+                <p class="mb-4"><strong>Category: </strong>@Model.Item_type</p>
+
+                <div class="d-flex align-items-center">
+                    @using (Html.BeginForm("AddToCart", "Products", FormMethod.Post))
+                    {
+                        @Html.Hidden("productId", Model.id)
+                        <button type="submit" class="btn btn-primary btn-lg rounded-pill me-3">
+                            <i class="fa fa-shopping-cart me-2"></i> Add to Cart
+                        </button>
+                    }
+                    <a href="@Url.Action("Index", "Products")" class="btn btn-secondary btn-lg rounded-pill">
+                        <i class="fa fa-arrow-left me-2"></i> Back to Shop
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
